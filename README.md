@@ -101,4 +101,4 @@ Análise detalhada por unidade:
 
 ## Autoria
 
-Dashboard desenvolvido durante o período de **estágio**, como parte do aprendizado prático em **Business Intelligence e Análise de Dados**, utilizando **Power BI**.
+Dashboard desenvolvido durante o período de **estágio**, utilizando **Power BI**.
