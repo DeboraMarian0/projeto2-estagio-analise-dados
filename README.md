@@ -1,6 +1,7 @@
 # 📊 Dashboard de Gestão de Consumo e Custos — Power BI
 
 Este repositório contém um dashboard desenvolvido em Power BI ao longo do meu período de estágio, com o objetivo de monitorar, analisar e apoiar a tomada de decisão relacionada aos custos e consumo de energia, água e esgoto de diversas unidades operacionais.
+
 O dashboard foi construído com dados reais da organização, aplicando conceitos de **Business Intelligence**, **modelagem de dados**, **DAX** e **visualização interativa**, com o objetivo de apoiar a **tomada de decisão gerencial**. Por esse motivo apenas as imagens estão sendo disponibilizadas neste repositório. Sendo assim, tais imagens contêm as informações borradas (com blur) devido a um Acordo de Confidencialidade (NDA – Non-Disclosure Agreement). Diante disso, não é permitido divulgar informações sensíveis ou estratégicas. O objetivo da publicação é demonstrar a estrutura do dashboard, modelagem e organização visual, sem expor dados confidenciais.
 
 ---
