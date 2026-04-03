@@ -6,7 +6,7 @@ O dashboard foi construído com dados reais da organização, aplicando conceito
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 - Consolidar informações de **consumo e custos** em um único painel  
 - Facilitar o **acompanhamento mensal e anual**  
@@ -16,7 +16,7 @@ O dashboard foi construído com dados reais da organização, aplicando conceito
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - **Power BI Desktop**  
 - **Power Query** (ETL e tratamento de dados)  
@@ -25,9 +25,9 @@ O dashboard foi construído com dados reais da organização, aplicando conceito
 
 ---
 
-## 📌 Estrutura do Dashboard
+## Estrutura do Dashboard
 
-### 🏠 Página Inicial
+### Página Inicial
 
 Visão geral dos principais indicadores:
 
@@ -42,7 +42,7 @@ Inclui **tooltips interativos** para detalhamento das informações.
 
 ---
 
-### ⚡ Página Mercado Livre
+### Página Mercado Livre de Energia
 
 Análise específica das unidades atendidas pelo **Mercado Livre de Energia**:
 
@@ -53,7 +53,7 @@ Análise específica das unidades atendidas pelo **Mercado Livre de Energia**:
 
 ---
 
-### 📊 Página Indicadores
+### Página Indicadores
 
 Painel consolidado com filtros dinâmicos:
 
@@ -67,7 +67,7 @@ Inclui gráficos comparativos e tabelas detalhadas.
 
 ---
 
-### 🏢 Página Unidades
+### Página Unidades
 
 Análise detalhada por unidade:
 
@@ -78,7 +78,7 @@ Análise detalhada por unidade:
 - Mapa de custos por bairro  
 - Ranking das **10 unidades com maior consumo**
 
-## 📈 Funcionalidades
+## Funcionalidades
 
 - Filtros e segmentações dinâmicas  
 - Gráficos interativos  
